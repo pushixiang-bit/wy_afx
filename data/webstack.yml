@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: KVideo
-      qrcode:
+      qrcode:KVicon.png
       logo: https://www.google.com/s2/favicons?sz=64&domain=dy.reliable.ccwu.cc
       url: https://dy.reliable.ccwu.cc
       description: 个人影院！
