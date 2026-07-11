@@ -5,7 +5,7 @@
   links: 
     - title: KVideo
       qrcode:
-      logo: https://www.google.com/s2/favicons?sz=64&domain=www.dy.reliable.ccwu.cc
+      logo: https://www.google.com/s2/favicons?sz=64&domain=dy.reliable.ccwu.cc
       url: https://dy.reliable.ccwu.cc
       description: 个人影院！
     - title: YouTube
@@ -20,7 +20,7 @@
       description: 国外免费软件下载网站！
     - title: Cloudflare
       qrcode:
-      logo: https://www.google.com/s2/favicons?sz=64&domain=www.dash.cloudflare.com
+      logo: https://www.google.com/s2/favicons?sz=64&domain=dash.cloudflare.com
       url: https://dash.cloudflare.com
       description: 网页工具！
     
