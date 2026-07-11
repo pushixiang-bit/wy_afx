@@ -3,16 +3,26 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
+    - title: KVideo
+      qrcode:
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.dy.reliable.ccwu.cc
+      url: https://dy.reliable.ccwu.cc
+      description: 个人影院！
     - title: YouTube
       qrcode:
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      url: https://www.youtube.com
       description: 国外视频网站！
     - title: GitHub
       qrcode:
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.github.com
       url: https://github.com
       description: 国外免费软件下载网站！
+    - title: Cloudflare
+      qrcode:
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.dash.cloudflare.com
+      url: https://dash.cloudflare.com
+      description: 网页工具！
     
 
 - taxonomy: 金融服务
