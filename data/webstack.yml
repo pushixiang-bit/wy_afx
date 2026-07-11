@@ -5,7 +5,7 @@
   links: 
     - title: KVideo
       qrcode: 
-      logo: images/logos/kvicon.png
+      logo: static/images/logos/kvicon.png
       url: https://dy.reliable.ccwu.cc
       description: 个人影院！
     - title: YouTube
