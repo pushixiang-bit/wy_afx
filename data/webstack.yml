@@ -23,7 +23,11 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=dash.cloudflare.com
       url: https://dash.cloudflare.com
       description: 网页工具！
-    
+    - title: ACEmusic
+      qrcode:
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://acemusic.ai/playground/create
+      url: https://acemusic.ai/playground/create
+      description: 在线音乐生成器！
 
 - taxonomy: 金融服务
   icon: fa-regular fa-newspaper
